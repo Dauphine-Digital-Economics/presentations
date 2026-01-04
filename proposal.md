@@ -23,5 +23,5 @@ This section outlines the benefits and impact of the topic that is presented. Fo
 ### Detailed Specification
 This section displays in detail research or information supporting the proposal. This is usually the longest section in a proposal. For technical proposals, in detail code is given. For financial or social proposals, budgets, models, roadmaps are presented.
 
-For this course, it is enough to provide a link of your presentation (please host it on a **public** platform of your choice like google drive or Dropbox). Additionally, include some sources of information you used for your presentation.
+Additionally, upload your presentation to the [class repository](https://github.com/Dauphine-Digital-Economics/presentations) and add in the link.
 
