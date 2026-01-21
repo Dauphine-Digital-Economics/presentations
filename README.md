@@ -9,7 +9,7 @@ A repository for weekly and final presentations.
 ### Submission workflow
 In addition to the presentation itself, the following process must be followed in order to fulfil the proposal part of the [grading criteria](presentation-grading.md):
 
-1. When it is your turn to present, please provide the professor with your wallet address so you may be given the Author role which allows you to submit proposals in the Class DAO.
+1. When it is your turn to present, please provide the professor with your wallet address and Github handle so you may be given the Author role which allows you to submit proposals in the Class DAO and upload your presentation into this repository.
 2. Follow the format listed in proposal.md and make sure all your links are working before creating a proposal. Once it is created, it cannot be changed!
 3. Once you have written your proposal into Snapshot, please set the voting choices from 5 to 20. This represents the score that your colleagues can give you. Reminder, you cannot vote on your own project!
 4. Set the voting period to start on Monday 16h00 (The Monday of your presentation) and set the end to the following Sunday 23h59. In essence, class participants will have one week to vote on a presentation.
